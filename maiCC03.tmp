@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://da3d0s6on6frv"]
+
+[ext_resource type="Script" path="res://scripts/Imageloader.gd" id="1_h7h6w"]
+
+[node name="MainScene" type="Node2D"]
+script = ExtResource("1_h7h6w")
